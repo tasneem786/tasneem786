@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/60441452/130314467-c9c8eed6-1083-498e-b8f6-71dc45f00fad.png" width="500" height="400">
+
 - 👋 Hi, I’m Tasneem
 - 👩‍🔬 I’m interested in Bioinfomartics, Genetics and Immunology.
 - 💖 I love writing✍
